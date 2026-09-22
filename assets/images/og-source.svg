@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="630" viewBox="0 0 1200 630">
+  <rect width="1200" height="630" fill="#12151b"/>
+  <rect x="0" y="0" width="1200" height="630" fill="none" stroke="#2a3140" stroke-width="2"/>
+  <circle cx="1080" cy="90" r="6" fill="#5fc9c2"/>
+  <text x="90" y="220" font-family="Verdana, sans-serif" font-size="60" font-weight="700" fill="#eceff3">Anup Sharma</text>
+  <text x="90" y="280" font-family="Verdana, sans-serif" font-size="30" fill="#e8a33d">Backend Software Engineer</text>
+  <text x="90" y="340" font-family="Verdana, sans-serif" font-size="24" fill="#8b93a3">Python · FastAPI · Kafka · Microservices · AWS</text>
+  <text x="90" y="540" font-family="Consolas, monospace" font-size="20" fill="#5fc9c2">quickheal · pune, india</text>
+</svg>
